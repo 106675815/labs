@@ -54,7 +54,9 @@ table, th, tr, td {
     color:red;
 }
 
-ol ul { list-style-type : square; }
+ol ul { list-style-type : square;
+        font-weight:bold ;
+}
 
 aside:hover {
     display: none;
